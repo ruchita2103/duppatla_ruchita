@@ -1,5 +1,5 @@
 Task 1: Exploratory Data Analysis (EDA) and Business Insights : 
-code for eda:
+code for eda: [https://colab.research.google.com/drive/1SGhjor1DEtRS2HMGTM0TkFyAX9DsgM_n?usp=sharing]
 #first you need to import all necessary libraries:
 
 import pandas as pd
